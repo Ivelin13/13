@@ -45,12 +45,12 @@ export default function Footer() {
               
               <div className="flex items-center space-x-3 lg:space-x-4 text-gray-300">
                 <Mail className="w-4 h-4 lg:w-5 lg:h-5 text-blue-400" />
-                <span className="font-bold text-sm lg:text-base">energiaverdewasabi@gmail.com</span>
+                <span className="font-bold text-sm lg:text-base">info@wasabitrader.com</span>
               </div>
               
               <div className="flex items-center space-x-3 lg:space-x-4 text-gray-300">
                 <MapPin className="w-4 h-4 lg:w-5 lg:h-5 text-blue-400" />
-                <span className="font-bold text-sm lg:text-base">Albacete, España</span>
+                <span className="font-bold text-sm lg:text-base">Valencia, España</span>
               </div>
             </div>
           </div>

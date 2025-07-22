@@ -115,8 +115,8 @@ Consulta: ${formData.message || 'Solicitud de información general'}`;
                 </div>
                 <div>
                   <h3 className="font-black text-gray-900">Email</h3>
-                  <a href="mailto:energiaverdewasabi@gmail.com" className="text-blue-600 font-bold hover:underline">
-                    energiaverdewasabi@gmail.com
+                  <a href="mailto:info@wasabitrader.com" className="text-blue-600 font-bold hover:underline">
+                    info@wasabitrader.com
                   </a>
                   <p className="text-gray-600 text-sm">Respuesta en 24h</p>
                 </div>
@@ -128,8 +128,8 @@ Consulta: ${formData.message || 'Solicitud de información general'}`;
                 </div>
                 <div>
                   <h3 className="font-black text-gray-900">Dirección</h3>
-                  <p className="text-gray-700 font-bold">POLÍGONO CAMPOLLANO</p>
-                  <p className="text-gray-700">CALLE A, 7. 02006, ALBACETE</p>
+                  <p className="text-gray-700 font-bold">Calle Andarella 2</p>
+                  <p className="text-gray-700">46950 Valencia</p>
                 </div>
               </div>
 

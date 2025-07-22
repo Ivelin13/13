@@ -35,9 +35,9 @@ export default function PrivacyPolicy() {
             <div className="text-blue-800 space-y-2">
               <p><strong>Razón Social:</strong> WASABI TRADER S.L.</p>
               <p><strong>CIF:</strong> B12345678</p>
-              <p><strong>Dirección:</strong> POLÍGONO CAMPOLLANO - CALLE A, 7. 02006, ALBACETE</p>
+              <p><strong>Dirección:</strong> Calle Andarella 2, 46950 Valencia</p>
               <p><strong>Teléfono:</strong> +34 621 50 83 00</p>
-              <p><strong>Email:</strong> energiaverdewasabi@gmail.com</p>
+              <p><strong>Email:</strong> info@wasabitrader.com</p>
             </div>
           </div>
 
@@ -185,7 +185,7 @@ export default function PrivacyPolicy() {
               <div className="space-y-2 text-blue-700">
                 <div className="flex items-center space-x-2">
                   <Mail className="w-4 h-4" />
-                  <span>energiaverdewasabi@gmail.com</span>
+                  <span>info@wasabitrader.com</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Phone className="w-4 h-4" />

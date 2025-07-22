@@ -36,7 +36,7 @@ export default function CookiePolicy() {
               <p><strong>Razón Social:</strong> WASABI TRADER S.L.</p>
               <p><strong>CIF:</strong> B12345678</p>
               <p><strong>Sitio web:</strong> wasabitrader.com</p>
-              <p><strong>Email:</strong> energiaverdewasabi@gmail.com</p>
+              <p><strong>Email:</strong> info@wasabitrader.com</p>
             </div>
           </div>
 
@@ -281,7 +281,7 @@ export default function CookiePolicy() {
                 Si tiene preguntas sobre nuestra política de cookies:
               </p>
               <div className="space-y-2 text-blue-700">
-                <p><strong>Email:</strong> energiaverdewasabi@gmail.com</p>
+                <p><strong>Email:</strong> info@wasabitrader.com</p>
                 <p><strong>Teléfono:</strong> +34 621 50 83 00</p>
               </div>
             </div>
