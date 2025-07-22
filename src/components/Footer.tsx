@@ -50,7 +50,7 @@ export default function Footer() {
               
               <div className="flex items-center space-x-3 lg:space-x-4 text-gray-300">
                 <MapPin className="w-4 h-4 lg:w-5 lg:h-5 text-blue-400" />
-                <span className="font-bold text-sm lg:text-base">Valencia, España</span>
+                <span className="font-bold text-sm lg:text-base">Calle Andarella 2, 46950 Valencia</span>
               </div>
             </div>
           </div>
